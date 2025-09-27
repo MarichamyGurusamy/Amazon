@@ -1,2 +1,4 @@
 utils\WebDriverManager.class
+keywords\common.class
+pages\home_page_guest.class
 pages\guest_user.class
