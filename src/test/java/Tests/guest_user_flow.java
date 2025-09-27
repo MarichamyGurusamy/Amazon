@@ -51,8 +51,6 @@ public class guest_user_flow extends baseTest {
 		Assert.assertTrue(home.newCustomerLink.isDisplayed());
 		
 		
-		
-			
 			
 	}
 
