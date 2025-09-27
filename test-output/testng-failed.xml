@@ -5,8 +5,8 @@
     <classes>
       <class name="Tests.guest_user_flow">
         <methods>
+          <include name="home_page_guest"/>
           <include name="closebrowser"/>
-          <include name="verifyElementsForguestUser"/>
           <include name="openBrowser"/>
         </methods>
       </class> <!-- Tests.guest_user_flow -->
